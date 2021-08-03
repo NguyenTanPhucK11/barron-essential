@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/barron-essential/static/css/main.568cdeb1.chunk.css",
+    "main.js": "/barron-essential/static/js/main.f9a99c20.chunk.js",
+    "main.js.map": "/barron-essential/static/js/main.f9a99c20.chunk.js.map",
+    "runtime-main.js": "/barron-essential/static/js/runtime-main.9013d31c.js",
+    "runtime-main.js.map": "/barron-essential/static/js/runtime-main.9013d31c.js.map",
+    "static/js/2.8bbbf525.chunk.js": "/barron-essential/static/js/2.8bbbf525.chunk.js",
+    "static/js/2.8bbbf525.chunk.js.map": "/barron-essential/static/js/2.8bbbf525.chunk.js.map",
+    "index.html": "/barron-essential/index.html",
+    "static/css/main.568cdeb1.chunk.css.map": "/barron-essential/static/css/main.568cdeb1.chunk.css.map",
+    "static/js/2.8bbbf525.chunk.js.LICENSE.txt": "/barron-essential/static/js/2.8bbbf525.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9013d31c.js",
+    "static/js/2.8bbbf525.chunk.js",
+    "static/css/main.568cdeb1.chunk.css",
+    "static/js/main.f9a99c20.chunk.js"
+  ]
+}
