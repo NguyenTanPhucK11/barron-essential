@@ -1,3 +1,28 @@
+html {
+  min-height: 100%;
+}
+body {
+  /* background: url(/img/img.jpeg) no-repeat; */
+  background-size: 100%;
+  background-position: bottom;
+  /* background-color: ; */
+  min-height: 100%;
+}
+form {
+  padding: 20px;
+  margin-top: 60px;
+}
+form button,
+form h5 {
+  margin: 20px 0;
+}
+/* input[type="text"]:not(.browser-default):focus:not([readonly]),
+input[type="email"]:not(.browser-default):focus:not([readonly]),
+input[type="password"]:not(.browser-default):focus:not([readonly]),
+textarea.materialize-textarea:focus:not([readonly]) {
+  border-color: #ec407a;
+  box-shadow: none;
+} */
 .App {
   text-align: center;
 }
@@ -35,4 +60,16 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.body-style {
+  padding: 10px;
+}
+.all-button {
+  margin: 10px;
+  padding: 0px;
+}
+
+.form-control {
+  margin-top: 3px;
 }
